@@ -22,5 +22,5 @@ my network is 192.168.1.0/24
 ## Test using Ping command
 verifying commuincation between end devices
 
- eg ping 192.1.168.1.5
+ eg in pc0 terminal // ping  ip address of pc1 (192.1.168.1.10)
 
