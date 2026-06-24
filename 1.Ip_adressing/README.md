@@ -24,3 +24,5 @@ verifying commuincation between end devices
 
  eg in pc0 terminal // ping  ip address of pc1 (192.1.168.1.10)
 
+## Results
+Ping succesful.0% data loss
